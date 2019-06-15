@@ -1,0 +1,4 @@
+.build
+test.pl
+*.tar.gz
+Endoscope-*
